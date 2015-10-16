@@ -4,7 +4,6 @@ p {
   border-width:3px;
   border-style:solid;
   border-range:5px;
-  border-height: 100px;
 }
 * {
   background-color: red;
@@ -18,4 +17,7 @@ h1 {
   border-width:3px;
   border-style:solid;
   border-range:5px;
+}
+p:hover {
+  color:green;
 }
