@@ -33,3 +33,8 @@ div {
         color: black;
         
 }
+div a {
+	text-decoration: none;
+	color:black;
+}
+}
