@@ -1,9 +1,5 @@
 p { 
   color:black;
-  border-color:black;
-  border-width:3px;
-  border-style:solid;
-  border-range:5px;
 }
 * {
   background-color: red;
