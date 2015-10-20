@@ -1,5 +1,6 @@
 p { 
   color:black;
+  text-align: center;
 }
 * {
   background-color: red;
@@ -9,13 +10,9 @@ a:hover {
 }
 h1 {
   font-family:Impact;
-  border-color:black;
-  border-width:3px;
-  border-style:solid;
-  border-range:5px;
 }
 p:hover {
-  color:green;
+  color:Purple;
 }
 div {
 	border-radius: 5px;
