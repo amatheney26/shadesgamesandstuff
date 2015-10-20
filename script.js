@@ -6,5 +6,5 @@ if (computerChoice < 0.34) {
 	computerChoice = "paper";
 } else {
 	computerChoice = "scissors";
-} document.write("Computer: " + computerChoice);
-document.write("You picked " + userChoice); 
+} document.write(<br>"Computer: " + computerChoice);
+document.write(<br>"You picked " + userChoice); 
