@@ -39,5 +39,8 @@ div a:hover {
 }
 img {
 	margin: center;
+	border-color:black;
+	border-width:10px;
+	border-radius 5px;
 }
 
