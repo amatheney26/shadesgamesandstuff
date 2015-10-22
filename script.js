@@ -6,5 +6,5 @@ if (computerChoice < 0.34) {
 	computerChoice = "paper";
 } else {
 	computerChoice = "scissors";
-} alert("Computer: " + computerChoice + "<br>");
-alert("You picked: " + userChoice + "<br>"); 
+} alert("Computer: " + computerChoice);
+alert("You picked: " + userChoice); 
