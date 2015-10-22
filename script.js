@@ -8,3 +8,4 @@ if (computerChoice < 0.34) {
 	computerChoice = "scissors";
 } alert("Computer: " + computerChoice);
 alert("You picked: " + userChoice); 
+
