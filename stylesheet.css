@@ -22,10 +22,12 @@ div {
 	background-color: white;
 	height: 40px;
 	width: 120px;
-	margin: auto;
 	text-align: center;
         Text-decoration: none;
         color: black;
+        position: abssolute;
+        bottom: 0px;
+        
         
 }
 div a {
