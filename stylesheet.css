@@ -39,5 +39,6 @@ div a:hover {
 }
 img {
 	border: 10px solid black;
+	width: 50%;
 }
 
