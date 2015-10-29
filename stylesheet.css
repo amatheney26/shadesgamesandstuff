@@ -42,7 +42,7 @@ div a:hover {
 	color: green ;
 	text-decoration: underline;
 }
-img {
+#puppy {
 	position: absolute;
 	border: 10px solid black;
 	width: 600px;
