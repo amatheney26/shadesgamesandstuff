@@ -52,13 +52,17 @@ div a:hover {
 	
 }
 #list {
+font-size: 50px;
+	font-family: Impact;
+	text-align: center;
+	text-decoration: underline;
 	margin-left: 1279px;
 	height: 880px;
 	width: 300px;
 	background-color: white;
 	border: 4px solid black;
 	border-radius: 5px;
-	margin-top: -185px
+	margin-top: -185px;
 	
 }
 
