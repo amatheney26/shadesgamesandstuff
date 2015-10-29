@@ -19,7 +19,7 @@ h1 {
 p:hover {
   color:Purple;
 }
-div {
+#rock {
 	border-radius: 5px;
 	border: 2px solid black;
 	background-color: white;
@@ -52,10 +52,13 @@ div a:hover {
 	
 }
 #list {
-	margin-left: 1300px;
-	height: 900px;
+	margin-left: 1030px;
+	height: 710px;
 	width: 300px;
-	margin-bottom: 900px;
+	margin-bottom: 1000px;
+	background-color: white;
+	border: 2px solid black;
+	border-range: 5px;
 	
 }
 
