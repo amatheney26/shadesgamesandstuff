@@ -6,7 +6,7 @@ p {
 body {
 	background-image: url("https://wallpaperscraft.com/image/road_desert_marking_105395_1600x900.jpg");
 	background-repeat: no-repeat;
-	background-size: 1600px 900px;
+	background-size: 100%
 }
 
 a:hover {
