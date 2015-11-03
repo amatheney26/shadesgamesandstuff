@@ -1,22 +1,26 @@
 #comp {
- height: 75px;
- width: 300px;
- background-color: white;
- border: 4px solid black;
- border-radius: 5px;
- margin-left: -580px;
+  height: 75px;
+  width: 300px;
+  background-color: white;
+  border: 4px solid black;
+  border-radius: 5px;
+  float: left;
+  font-family: Impact;
+  font-size: 50px;
+  text-align: center;
  
 }
  
  #mainmenu {
    margin: auto;
-   margin-top: 500px;
    height: 75px;
    width: 300px;
    background-color: white;
    border: 4px solid black;
    border-radius: 5px;
-   margin-left: -140px;
+   font-family: Impact;
+  font-size: 50px;
+  text-align: center;
 
 
  }
@@ -26,19 +30,11 @@
   background-color: white;
   border: 4px solid black;
   border-radius: 5px;
-  margin-left: 259px;
-  margin-top: -81px
-  
-}
-#divider {
-	margin: auto;
-	width: 15px;
-	background-color: white;
-	border: 4px solid black;
-	border-radius: 5px;
-	
-	
-  
+  float: right;
+  font-family: Impact;
+  font-size: 50px;
+  text-align: center;
+    
 }
 body {
  background-color: black;
