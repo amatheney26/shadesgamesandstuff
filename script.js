@@ -30,7 +30,8 @@ if (userChoice == computerChoice) {
     };
     if (computerChoice == "rock") {
     		document.getElementById('comc')
-    .innerHTML = '<img src="http://www.geneseo.edu/sites/default/files/images/grinding_rock_stone.gif" />';
+    .innerHTML = '<img src="http://www.geneseo.edu/sites/default/files/images/grinding_rock_stone.gif" />'; }
+    
     else if (computerChoice == "paper") {
     		document.getElementById('comc')
     .innerHTML = '<img src="https://goo.gl/L6JHmz" />';
