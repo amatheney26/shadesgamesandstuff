@@ -67,13 +67,16 @@ body {
    cursor: pointer;
   
 #comc {
-  float: left;
-  margin-top: -500px;
-  margin-left: 25px;
-
+  position: fixed;
+ margin-top: 20%;
+ margin-left: 25px;
+ height: 200px;
+width: 200px;
 }
 #playc {
-  float: right;
-  margin-top:-500px;
-  margin-right: 25px;
+ position: fixed;
+ margin-top: 20%;
+ margin-right: 25px;
+ height: 200px;
+ width: 200px;
 }
