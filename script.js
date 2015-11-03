@@ -6,9 +6,7 @@ if (computerChoice < 0.34) {
 	computerChoice = "paper";
 } else {
 	computerChoice = "scissors";
-} alert("Computer: " + computerChoice);
-alert("You picked: " + userChoice); 
-
+} 
 if (userChoice == computerChoice) {
          document.getElementById("result").innerHTML = "Its a Tie";
     } else if (userChoice == "rock") {
