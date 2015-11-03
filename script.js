@@ -9,3 +9,24 @@ if (computerChoice < 0.34) {
 } alert("Computer: " + computerChoice);
 alert("You picked: " + userChoice); 
 
+if (userChoice == computerChoice) {
+        alert ("Tie!");
+    } else if (userChoice == "rock") {
+        if (computerChoice == "scissors") {
+            alert ("You win!");
+        } else {
+            alert ("You lose.");
+        };
+    } else if (userChoice == "paper") {
+        if (computerChoice == "rock") {
+            alert ("You win!");
+        } else {
+            alert ("You lose.");
+        };
+    } else if (userChoice == "scissors") {
+        if (computerChoice == "paper") {
+            alert ("You win!");
+        } else {
+            alert ("You lose");
+        };
+    };
