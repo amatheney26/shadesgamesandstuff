@@ -10,7 +10,7 @@ if (computerChoice < 0.34) {
 alert("You picked: " + userChoice); 
 
 if (userChoice == computerChoice) {
-        alert ("Tie!");
+         document.getElementById("result").innerHTML = "Its a Tie";
     } else if (userChoice == "rock") {
         if (computerChoice == "scissors") {
            document.getElementById("result").innerHTML = "You Win";
