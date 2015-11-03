@@ -1,5 +1,6 @@
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
+var result = 
 if (computerChoice < 0.34) {
 	computerChoice = "rock";
 } else if(computerChoice <= 0.67) {
@@ -13,20 +14,21 @@ if (userChoice == computerChoice) {
         alert ("Tie!");
     } else if (userChoice == "rock") {
         if (computerChoice == "scissors") {
-            alert ("You win!");
+           document.getElementById("result").innerHTML = You Win;
         } else {
-            alert ("You lose.");
+            document.getElementById("result").innerHTML = You Lose;
         };
     } else if (userChoice == "paper") {
         if (computerChoice == "rock") {
-            alert ("You win!");
+            document.getElementById("result").innerHTML = You Win;
         } else {
-            alert ("You lose.");
+           document.getElementById("result").innerHTML = You Lose;
         };
     } else if (userChoice == "scissors") {
         if (computerChoice == "paper") {
-            alert ("You win!");
+           document.getElementById("result").innerHTML = You Win;
         } else {
-            alert ("You lose");
+            document.getElementById("result").innerHTML = You Lose;
         };
     };
+    
