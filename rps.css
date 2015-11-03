@@ -53,3 +53,17 @@ body {
   margin-top: 700px;
   
 }
+#playagain {
+    margin: auto;
+    margin-top: 600px;
+   height: 75px;
+   width: 300px;
+   background-color: white;
+   border: 4px solid black;
+   border-radius: 5px;
+   font-family: Impact;
+  font-size: 50px;
+  text-align: center;
+  cursor: pointer;
+  
+}
