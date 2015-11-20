@@ -7,3 +7,6 @@ indexload = function() {
 playload = function() {
   window.location.replace('Rps.html');
 }
+bosdload = function() {
+  window.loaction.replace('bosd.html');
+}
